@@ -1,12 +1,12 @@
 # Kalkulator Operasi Kotlin (Higher-Order Function) 
 
-Nama Kelompok :
+Nama Kelompok 7 :
 
-Muhammad Habibi	235150201111063
+- Muhammad Habibi	235150201111063
 
-Roynaldo Saroha Sinaga	235150200111050
+- Roynaldo Saroha Sinaga	235150200111050
 
-Harry Phalosa Telaumbanua	235150200111052
+- Harry Phalosa Telaumbanua	235150200111052
 
 Proyek sederhana ini adalah implementasi kalkulator dasar menggunakan bahasa pemrograman **Kotlin**. Tujuan utama dari proyek ini bukan sekadar menghitung angka, melainkan untuk mendemonstrasikan penerapan konsep **Higher-Order Function (HOF)** , **Lambda Expression** , dan penanganan *error* (*Exception Handling*) di Kotlin.
 
